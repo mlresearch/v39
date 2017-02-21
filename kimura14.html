@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>A Fast Hierarchical Alternating Least Squares Algorithm for Orthogonal Nonnegative Matrix Factorization | ACML 2014 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="A Fast Hierarchical Alternating Least Squares Algorithm for Orthogonal
+	Nonnegative Matrix Factorization">
+
+  <meta name="citation_author" content="Kimura, Keigo">
+
+  <meta name="citation_author" content="Tanaka, Yuzuru">
+
+  <meta name="citation_author" content="Kudo, Mineichi">
+
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_conference_title" content="Proceedings of the Sixth Asian Conference on Machine Learning">
+<meta name="citation_firstpage" content="129">
+<meta name="citation_lastpage" content="141">
+<meta name="citation_pdf_url" content="kimura14.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>A Fast Hierarchical Alternating Least Squares Algorithm for Orthogonal Nonnegative Matrix Factorization</h1>
+
+	<div id="authors">
+	
+		Keigo Kimura,
+	
+		Yuzuru Tanaka,
+	
+		Mineichi Kudo
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of the Sixth Asian Conference on Machine Learning,
+		pp. 129–141, 2014
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		Nonnegative Matrix Factorization (NMF) is a popular technique in a variety of fields due to its component-based representation with physical interpretablity. NMF finds a nonnegative hidden structures as oblique bases and coefficients. Recently, Orthogonal NMF (ONMF), imposing an orthogonal constraint into NMF, has been gathering a great deal of attention. ONMF is more appropriate for the clustering task because the resultant constrained matrix consisting of the coefficients can be considered as an indicator matrix. All traditional ONMF algorithms are based on multiplicative update rules or project gradient descent method. However, these algorithms are slow in convergence compared with the state-of-the-art algorithms used for regular NMF. This is because they update a matrix in each iteration step. In this paper, therefore, we propose to update the current matrix column-wisely using Hierarchical Alternating Least Squares algorithm (HALS) that is typically used for NMF. The orthogonality and nonnegativity constraints are both utilized efficiently in the column-wise update procedure. Through theoretical analysis and experiments on six real-life datasets, it was shown that the proposed algorithm converges faster than the other conventional ONMF algorithms due to a smaller number of iterations, although the theoretical complexity is the same. It was also shown that the orthogonality is also attained in an earlier stage.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="kimura14.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>
