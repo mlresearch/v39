@@ -47,6 +47,6 @@ issued:
   - 2015
   - 2
   - 16
-pdf: http://proceedings.mlr.press/v39/alabdulmohsin14/alabdulmohsin14.pdf
+pdf: http://proceedings.mlr.press/v39/alabdulmohsin14.pdf
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
