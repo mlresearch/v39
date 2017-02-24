@@ -1,0 +1,49 @@
+---
+year: '2014'
+volume: 39
+booktitle: Proceedings of the Sixth Asian Conference on Machine Learning
+published: 2015-02-16
+shortname: ACML
+start: 2014-11-26
+end: 2014-11-28
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: acml14
+month: 0
+abstract: ''
+editor:
+- given: Dinh
+  family: Phung
+- given: Hang
+  family: Li
+title: Proceedings of the Sixth Asian Conference on Machine Learning
+email: ''
+description: Proceedings of the Sixth Asian Conference on Machine Learning, Nha Trang
+  City, Vietnam
+url: http://proceedings.mlr.press
+baseurl: "/v39"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v39
+conference:
+  name: Asian Conference on Machine Learning
+  url: 
+  location: Nha Trang City, Vietnam
+  dates:
+  - 2014-11-26
+  - 2014-11-27
+  - 2014-11-28
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v39.bib
