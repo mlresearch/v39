@@ -16,12 +16,13 @@ series: Proceedings of Machine Learning Research
 id: acml14
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Dinh
   family: Phung
 - given: Hang
   family: Li
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Sixth Asian Conference on Machine Learning
     Held in Nha Trang City, Vietnam on 26-28 November 2014

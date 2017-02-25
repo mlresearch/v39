@@ -25,6 +25,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: alabdulmohsin14
 month: 0
+tex_title: Support vector machines with indefinite kernels
 firstpage: 32
 lastpage: 47
 page: 32-47
