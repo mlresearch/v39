@@ -29,7 +29,8 @@ tex_title: Support vector machines with indefinite kernels
 firstpage: 32
 lastpage: 47
 page: 32-47
-sections: 
+order: 32
+cycles: false
 author:
 - given: Ibrahim
   family: Alabdulmohsin
