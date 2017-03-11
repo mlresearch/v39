@@ -61,6 +61,7 @@ conference:
   - 2014-11-26
   - 2014-11-27
   - 2014-11-28
+  number: 6
 analytics:
   google:
     tracking_id: UA-92432422-1
